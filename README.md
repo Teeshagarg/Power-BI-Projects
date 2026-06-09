@@ -1,4 +1,4 @@
-# Sentiment Analysis of Trump vs Clinton Facebook Posts using Power BI
+# 1) Sentiment Analysis of Trump vs Clinton Facebook Posts using Power BI
 
 ## 📌 Project Overview
 
@@ -108,4 +108,138 @@ Dynamic filters enabling users to explore data from multiple perspectives.
 
 
 
-This project is intended for educational, academic, and portfolio purposes.
+
+# 2)  Sales Analysis Dashboard using Power BI
+
+## 📌 Project Overview
+
+This project presents a comprehensive Sales Analysis Dashboard developed in Power BI to monitor business performance, identify sales trends, and support data-driven decision-making.
+
+The dashboard transforms raw sales data into meaningful visual insights, enabling stakeholders to track revenue, profit, customer behavior, and product performance through interactive reports and visualizations.
+
+---
+
+## 🎯 Objectives
+
+* Analyze overall sales performance.
+* Monitor revenue and profit trends.
+* Identify top-performing products and categories.
+* Evaluate regional and customer-wise sales.
+* Discover business growth opportunities through data insights.
+* Create an interactive dashboard for efficient decision-making.
+
+---
+
+## 🛠 Tools & Technologies
+
+* Power BI
+* Microsoft Excel / CSV
+* Power Query
+* DAX (Data Analysis Expressions)
+* Data Modeling
+
+---
+
+## 📂 Dataset Description
+
+The dataset contains sales transaction records with attributes such as:
+
+* Order ID
+* Product Name
+* Category
+* Sales Amount
+* Profit
+* Quantity Sold
+* Customer Information
+* Region / Location
+* Order Date
+
+---
+
+## 🔍 Project Workflow
+
+### 1. Data Collection
+
+Sales data was collected from business transaction records.
+
+### 2. Data Cleaning
+
+The following preprocessing steps were performed:
+
+* Handling missing values
+* Removing duplicates
+* Standardizing data formats
+* Data validation and transformation
+
+### 3. Data Modeling
+
+Relationships were established between tables to improve reporting and analysis.
+
+### 4. Dashboard Development
+
+Interactive visualizations were created using Power BI to present key business metrics.
+
+---
+
+## 📊 Dashboard Features
+
+### Sales Overview
+
+Displays total sales, profit, orders, and quantity sold.
+
+### Profit Analysis
+
+Analyzes profit contribution across products, categories, and regions.
+
+### Product Performance
+
+Identifies best-selling and least-performing products.
+
+### Regional Analysis
+
+Compares sales performance across different locations.
+
+### Time-Series Analysis
+
+Tracks sales and profit trends over time.
+
+### Interactive Filters
+
+Allows users to analyze data dynamically using slicers and filters.
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+* Total Sales
+* Total Profit
+* Profit Margin
+* Number of Orders
+* Quantity Sold
+* Average Order Value
+* Top Performing Products
+* Regional Sales Contribution
+
+---
+
+## 💡 Key Insights
+
+* Identification of high-performing products and categories.
+* Recognition of profitable regions and customer segments.
+* Analysis of seasonal sales trends.
+* Opportunities to improve profitability and operational efficiency.
+* Data-driven recommendations for business growth.
+
+
+
+## 🎓 Skills Demonstrated
+
+* Data Cleaning and Transformation
+* Data Modeling
+* DAX Calculations
+* Business Intelligence Reporting
+* Dashboard Design
+* Data Visualization
+* Sales Performance Analysis
+
+
